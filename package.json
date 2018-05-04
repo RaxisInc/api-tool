@@ -1,0 +1,35 @@
+{
+  "name": "api-tool",
+  "version": "1.0.0",
+  "description": "Node.js tool for accessing and generating tests for API endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaxisInc/api-tool.git"
+  },
+  "keywords": [
+    "node.js",
+    "api",
+    "tool",
+    "endpoint",
+    "assess",
+    "pentest",
+    "penetration",
+    "testing",
+    "test"
+  ],
+  "author": "Raxis, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaxisInc/api-tool/issues"
+  },
+  "homepage": "https://github.com/RaxisInc/api-tool#readme",
+  "dependencies": {
+    "colors": "^1.2.3",
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "host": "https://api.yourapp.com:3000",
+  "username": "admin",
+  "password": "password",
+
+  "proxy": null,
+  "endpoints": {
+    "token": "/token"
+  }
+}
