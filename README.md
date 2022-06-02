@@ -88,5 +88,5 @@ something goes wrong. Raxis does not condone unauthorized or illegal testing by 
 liable for any parties that chose to do so.
 
 ## Author
-This API tool was written by and is currently maintained by Adam Fernandez, Lead Application Developer and Senior 
+This API tool was written by and is currently maintained by <a href="https://raxis.com/blog/meet-adam-fernandez">Adam Fernandez</a>, Lead Application Developer and Senior 
 Penetration Tester at [raxis.com](https://raxis.com).
